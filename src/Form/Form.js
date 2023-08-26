@@ -61,6 +61,7 @@ export default function Form({ onDataReceived }) {
 
                             value={OrbitalPeriod}
                             onChange={(e) => setOrbitalPeriod(e.target.value)}
+                              required
                         />
                         {/* <label>Orbital Period</label> */}
                     </div>
@@ -71,6 +72,7 @@ export default function Form({ onDataReceived }) {
                             placeholder="Planetary Radius (in Earth's Radius)"
                             value={PlanetaryRadius}
                             onChange={(e) => setPlanetaryRadius(e.target.value)}
+                              required
                         />
                         {/* <label>Planetary Radius </label> */}
                     </div>
@@ -81,6 +83,7 @@ export default function Form({ onDataReceived }) {
                             placeholder="Equilibrium Temperature (K)"
                             value={EquilibriumTemperature}
                             onChange={(e) => setEquilibriumTemperature(e.target.value)}
+                              required
                         />
                         {/* <label>Equilibrium Temperature</label> */}
                     </div>
@@ -91,6 +94,7 @@ export default function Form({ onDataReceived }) {
                             placeholder="Magnetic Isolated Flux"
                             value={InsolationFlux}
                             onChange={(e) => setInsolationFlux(e.target.value)}
+                              required
                         />
                         {/* <label>Magnetic Isolated Flux</label> */}
                     </div>
@@ -101,6 +105,7 @@ export default function Form({ onDataReceived }) {
                             placeholder="Stellar Surface Gravity"
                             value={StellarSurfaceGravity}
                             onChange={(e) => setStellarSurfaceGravity(e.target.value)}
+                              required
                         />
                         {/* <label>Surface Gravity</label> */}
                     </div>
