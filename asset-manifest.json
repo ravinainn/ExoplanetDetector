@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ExoplanetDetector/static/css/main.05ca93e7.css",
+    "main.js": "/ExoplanetDetector/static/js/main.cff557cd.js",
+    "static/media/8k_earth_clouds.jpg": "/ExoplanetDetector/static/media/8k_earth_clouds.08fcd80007fae8fc7170.jpg",
+    "static/media/Volcanic.png": "/ExoplanetDetector/static/media/Volcanic.56c817cddce3673882ac.png",
+    "static/media/Terrestrial1.png": "/ExoplanetDetector/static/media/Terrestrial1.490323ef12348afa1dfb.png",
+    "static/media/Icy.png": "/ExoplanetDetector/static/media/Icy.936c7d6954029a6b0c4f.png",
+    "static/media/8k_earth_specular_map.jpg": "/ExoplanetDetector/static/media/8k_earth_specular_map.7b4efa59933b470e3776.jpg",
+    "static/media/8k_earth_normal_map.jpg": "/ExoplanetDetector/static/media/8k_earth_normal_map.930cf2e99bc548140c29.jpg",
+    "static/media/nasalization-rg.otf": "/ExoplanetDetector/static/media/nasalization-rg.4cbf2019f1f7337b2594.otf",
+    "index.html": "/ExoplanetDetector/index.html",
+    "main.05ca93e7.css.map": "/ExoplanetDetector/static/css/main.05ca93e7.css.map",
+    "main.cff557cd.js.map": "/ExoplanetDetector/static/js/main.cff557cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ca93e7.css",
+    "static/js/main.cff557cd.js"
+  ]
+}
